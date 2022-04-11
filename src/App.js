@@ -7,6 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1 classname="App-title">Welcome to React</h1>
+　　　　<body>Reactのウエルコム画面です</body>
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
