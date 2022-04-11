@@ -8,6 +8,15 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1 classname="App-title">Welcome to React</h1>
 　　　　<body>Reactのウエルコム画面です</body>
+　　　　<p>
+          このWebsiteは以下のGithubのレポによってデプロイされる
+        </p>
+        <a
+          className="App-link"
+          href="https://github.com/IKI-Li/react-test"
+          target="_white"
+          rel="noopener noreferrer"
+        >
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
