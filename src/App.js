@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1 classname="App-title">Welcome to React</h1>
-　　　　<body>Reactのウエルコム画面です</body>
+　　　　<body>ReactのDevelop画面です</body>
         <a
           className="App-link"
           href="https://github.com/IKI-Li/react-test"
